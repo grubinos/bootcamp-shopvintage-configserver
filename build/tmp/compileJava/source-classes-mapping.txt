@@ -1,0 +1,2 @@
+com/shopvintage/configserver/ConfigServerApplication.java
+ com.shopvintage.configserver.ConfigServerApplication

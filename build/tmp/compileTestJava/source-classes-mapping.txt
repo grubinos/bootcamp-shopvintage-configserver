@@ -1,0 +1,2 @@
+com/shopvintage/configserver/ConfigServerApplicationTests.java
+ com.shopvintage.configserver.ConfigServerApplicationTests
